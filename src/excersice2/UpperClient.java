@@ -1,4 +1,4 @@
-package excersice1;
+package excersice2;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
